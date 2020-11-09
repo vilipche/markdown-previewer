@@ -1,0 +1,10 @@
+.Preview {
+    height: 100%;
+    background-color: blue;
+    padding: 20px;
+    background-color: #f0f4ef;
+    border: 5px solid #bfcc94;
+    border-radius: 2%;
+    overflow: scroll;
+    color: #0d1821;
+}

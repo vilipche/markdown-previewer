@@ -1,0 +1,23 @@
+.root {
+    background-color: #344966;
+    height: 100vh;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 100vh;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+textarea {
+    width: 100%;
+    height: 100%;
+    background-color: #f0f4ef;
+}
