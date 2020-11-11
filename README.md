@@ -2,6 +2,7 @@ Project inspiration: freecodecamp.com
 
 To launch the app:
 >npm install
+
 >npm start
 
 
